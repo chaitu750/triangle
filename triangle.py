@@ -23,4 +23,3 @@ for i in range((int(h1)+1)):
         print(" "*(L1-1),"*","*"*(L2-L1),"*",sep='')
     else :
         print(" "*(L1),"*",sep='')
-        #print(L1,L2)
